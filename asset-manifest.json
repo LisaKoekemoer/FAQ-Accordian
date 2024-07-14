@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FAQ-Accordian/static/css/main.b7324344.css",
+    "main.js": "/FAQ-Accordian/static/js/main.bd436e81.js",
+    "static/js/453.b3e9f8ca.chunk.js": "/FAQ-Accordian/static/js/453.b3e9f8ca.chunk.js",
+    "static/media/background-pattern-desktop.svg": "/FAQ-Accordian/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/FAQ-Accordian/index.html",
+    "static/media/icon-star.svg": "/FAQ-Accordian/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "main.b7324344.css.map": "/FAQ-Accordian/static/css/main.b7324344.css.map",
+    "main.bd436e81.js.map": "/FAQ-Accordian/static/js/main.bd436e81.js.map",
+    "453.b3e9f8ca.chunk.js.map": "/FAQ-Accordian/static/js/453.b3e9f8ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7324344.css",
+    "static/js/main.bd436e81.js"
+  ]
+}
